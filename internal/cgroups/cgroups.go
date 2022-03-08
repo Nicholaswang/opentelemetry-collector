@@ -62,7 +62,7 @@ const (
 
 	_cgroupMemoryLimitBytes = "memory.limit_in_bytes"
 
-	cgroupMemoryStat = "memory.stat"
+	_cgroupMemoryStat = "memory.stat"
 
 	_cgroupHierarchyMemoryLimit = "hierarchical_memory_limit"
 
